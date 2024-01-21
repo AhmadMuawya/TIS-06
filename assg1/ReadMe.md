@@ -6,4 +6,5 @@ In NALI 2023, Universiti Teknologi Malaysia (UTM) showcased its commitment to in
 Engaging in NALI 2023 provided a unique and comprehensive learning experience that extended beyond the traditional course boundaries. The applied methods, particularly problem-solving-based learning, showcased the impact of innovative approaches. Personally, the event offered a broader perspective on various technologies, sparking a notable desire to explore further using the techniques and skills presented. The activities undertaken, from practicing skills applicable in diverse fields to conducting interviews and reporting scientific material, contributed to a more holistic understanding. NALI 2023 left an indelible mark on my learning journey, offering an unforgettable experience that went beyond the routine course structure. The exposure to different projects and interviews with participants added depth to my understanding and affirmed the value of innovative learning approaches.
 
 [Group Report](./TIS.Assignment.1.1.pdf)
-[Personal Report](./NALI 2023 report.docx)
+
+[Personal Report](./NALI.2023.report.docx)
