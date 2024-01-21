@@ -16,7 +16,11 @@ The ICT job talk organized by Clarity Techworks offered UTM students a comprehen
 
 Assignment 3 :
 ---
-https://youtu.be/3b-hPxODZrc
+![digitalcare-utm-1080x675](https://github.com/AhmadMuawya/TIS-06/assets/147373032/05f1e01c-9de2-43ea-9f9f-3fddc6246fe9)
+
+A thriving journey to UTMDigital, getting to know more about the main ICT services provider of University Teknologi Malaysia.
+
+[VIEW MORE](./assg3/ReadMe.md)
 
 Assignment 4 :
 ---
