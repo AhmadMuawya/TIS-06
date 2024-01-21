@@ -29,3 +29,11 @@ Assignment 4 :
 Credence, a subsidiary of Telekom Malaysia, emerged in 2022 as a cloud and digital services company committed to delivering exceptional customer experiences. Focused on building robust and adaptable systems, Credence's system development process is rooted in a methodical approach encompassing design, analysis, planning, implementation, and maintenance. The history of system development reflects its evolution from linear models like the Waterfall model to more collaborative and iterative methodologies such as Agile and DevOps. Credence employs a variety of technologies and tools, including programming languages like Python and JavaScript, frameworks like Django and React, and methodologies such as DevOps and Agile. Cloud computing services from AWS and Azure, databases like PostgreSQL, and visualization tools like Tableau are integral to their development process.
 
 [VIEW MORE](./assg4/ReadMe.md)
+
+PC Assembly (Lab):
+---
+![pexels-photo-1432794](https://github.com/AhmadMuawya/TIS-06/assets/147373032/17f196bd-0648-46a8-84a6-0f3781fc8497)
+
+A lab about diassembling and then reassembling a personal computer's hardware.
+
+[VIEW MORE](./Lab/ReadMe.md)
