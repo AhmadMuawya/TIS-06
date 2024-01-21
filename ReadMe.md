@@ -11,6 +11,7 @@ Assignment 2 :
 ![pexels-photo-6476574](https://github.com/AhmadMuawya/TIS-06/assets/147373032/22abfc8c-aa3e-4e13-9080-3c9bdd6adbf7)
 
 The ICT job talk organized by Clarity Techworks offered UTM students a comprehensive insight into the Information and Communication Technology (ICT) sector. As a FinTech Solution company specializing in blockchain digital assets solutions, Clarity Techworks aimed to guide students in exploring potential career paths within various ICT-related domains. The talk outlined specific job scopes and skills required for roles such as Android developer, UI/UX designer, QA Testing Analyst, and Web/API Developer. The executive summary highlighted key takeaways, emphasizing the importance of practical application, teamwork, and the specific skills needed for success in the ICT industry. The speakers shared industry prospects, technology trends, and personal career development experiences, providing valuable advice to students. The reflection by the students acknowledged the significance of staying current with technology, the need for continuous learning, and the importance of communication and collaboration skills in the dynamic ICT field.
+
 [VIEW MORE](./assg2/ReadMe.md)
 
 Assignment 3 :
@@ -19,4 +20,8 @@ https://youtu.be/3b-hPxODZrc
 
 Assignment 4 :
 ---
+![Credence3](https://github.com/AhmadMuawya/TIS-06/assets/147373032/09bc2320-2019-4cab-8057-2670e45d11c0)
 
+Credence, a subsidiary of Telekom Malaysia, emerged in 2022 as a cloud and digital services company committed to delivering exceptional customer experiences. Focused on building robust and adaptable systems, Credence's system development process is rooted in a methodical approach encompassing design, analysis, planning, implementation, and maintenance. The history of system development reflects its evolution from linear models like the Waterfall model to more collaborative and iterative methodologies such as Agile and DevOps. Credence employs a variety of technologies and tools, including programming languages like Python and JavaScript, frameworks like Django and React, and methodologies such as DevOps and Agile. Cloud computing services from AWS and Azure, databases like PostgreSQL, and visualization tools like Tableau are integral to their development process.
+
+[VIEW MORE](./assg4/ReadMe.md)
