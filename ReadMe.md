@@ -1,3 +1,5 @@
+This repository contains individual and group Assessments of Technology and Information System course (Section 06 / 202320241)
+
 Assignment 1 :
 ---
 ![3](https://github.com/AhmadMuawya/TIS-06/assets/147373032/100a48fb-efe7-4a15-8f02-1f46023ddce4)
