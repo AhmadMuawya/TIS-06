@@ -1,4 +1,6 @@
 <h1>Assignment 1 :</h1>
+![3](https://github.com/AhmadMuawya/TIS-06/assets/147373032/100a48fb-efe7-4a15-8f02-1f46023ddce4)
+
 In NALI 2023, Universiti Teknologi Malaysia (UTM) showcased its commitment to innovative learning through the Center for Advancement in Digital and Flexible Learning (UTM CDex). The New Academia Learning Innovation event introduced in 2018 has become an annual knowledge-sharing platform, culminating in the 2023 edition themed "Resilience Education for Future-Oriented Quality Graduate." At the event, the focus was on diverse learning models fostering entrepreneurial academia. A highlight was the presentation on UTM Sustainability's E-Bike Tracking System, addressing environmental concerns with smart technology. The poster detailed the use of IoT, GPS, and GSM technologies, illustrating a real-time tracking system for E-Bikes on campus. The project not only addressed environmental issues but also considered future enhancements, emphasizing sustainability, innovation, and well-being.
 
 [VIEW MORE](./assg1/ReadMe.md)
