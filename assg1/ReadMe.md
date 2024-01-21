@@ -8,3 +8,5 @@ Engaging in NALI 2023 provided a unique and comprehensive learning experience th
 [Group Report](./TIS.Assignment.1.1.pdf)
 
 [Personal Report](./NALI.2023.report.docx)
+
+[Interview](https://youtu.be/Ygl9IsmY4Jo)
