@@ -44,6 +44,7 @@ Design Thinking:
 ---
 ![premium_photo-1661963588720-838fd19183ee](https://github.com/AhmadMuawya/TIS-06/assets/147373032/770077b8-730b-4a51-9c02-50a6dcc83824)
 This report encapsulates the comprehensive journey undertaken by Group 7 (Nexus) of SECP1513 Technology and Information System, under the guidance of Dr. Sarina binti Sulaiman, in developing the innovative solution "WeSafe." In response to the escalating challenges posed by cyber threats and privacy breaches in today's digital landscape, the group embarked on a design thinking endeavor to create a user-centric website aimed at bolstering data security and safeguarding personal information.
+
 Our group embarked on a design thinking journey to address the burgeoning concerns surrounding data security and privacy breaches in the digital age. The resulting solution, "WeSafe," is a comprehensive website offering real-time virus scanning, personalized protection plans, community-driven threat reporting, and crowdsourced professional services. By employing design thinking principles such as empathy, problem definition, ideation, prototyping, and testing, the group iteratively crafted a user-friendly interface tailored to meet the diverse needs of modern users. Through a reflective lens, each member of the group elucidates the impact of design thinking on their personal and professional development, underscoring the importance of continuous learning and collaboration in driving innovation in the software engineering industry.
 
 [VIEW MORE](./designthinking/readme.md)
